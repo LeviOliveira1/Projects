@@ -1,0 +1,220 @@
+body{
+   background-color: rgb(35, 37, 47);
+}
+
+
+
+.elemento1{
+    background-color: lightgray;
+    height: 360px;
+    width: 30.3%;
+    float: left;
+    border-radius: 5%;
+    box-shadow: inset 0 0 1em gold, 0 0 1em rgb(0, 29, 73);
+    position: static;
+    margin-top: 10px;
+}
+.py{
+    margin-left: 10px;
+   
+}
+.borda1{
+   border-style: dashed;
+   border-width: 1px;
+   margin-right: 100px;
+   margin-left: 10px;
+
+    
+}
+.title{
+    margin-left: 10px;
+}
+.texto{
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+
+
+
+
+.elemento3{
+    background-color: lightgray;
+    height: 360px;
+    width: 30.3%;
+    float: left;
+    border-radius: 5%;
+    box-shadow: inset 0 0 1em gold, 0 0 1em rgb(0, 0, 0);
+    position: static;
+    margin-top: 10px;
+    margin-left: 25px;
+  
+}
+.py2{
+    margin-left: 10px;
+}
+.title2{
+    margin-left: 10px;
+  
+}
+.borda2{
+    border-style: dashed;
+   border-width: 1px;
+   margin-right: 100px;
+   margin-left: 10px;
+
+}
+.texto2{
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 20px;
+
+}
+
+
+
+
+
+
+.elemento5{
+    background-color: lightgray;
+    height: 360px;
+    width: 30.3%;
+    float: left;
+    border-radius: 5%;
+    box-shadow: inset 0 0 1em gold, 0 0 1em rgb(50, 252, 0);
+    position: static;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.py3{
+    margin-left: 10px;
+}
+.title3{
+    margin-left: 10px;
+}
+
+.borda3{
+    border-style: dashed;
+    border-width: 1px;
+    margin-right: 100px;
+    margin-left: 10px;
+}
+.texto3{
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 20px;
+
+}
+
+
+
+
+
+
+
+.element1{
+    background-color: lightgray;
+    height: 360px;
+    width: 30.3%;
+    float: left;
+    border-radius: 5%;
+    box-shadow: inset 0 0 1em gold, 0 0 1em rgb(155, 1, 96);
+    position: static;
+    margin-left: 1px;
+    margin-top: 20px;
+}
+.py4{
+    margin-left: 10px;
+}
+.title4{
+    margin-left: 10px;
+}
+.borda4{
+    border-style: dashed;
+    border-width: 1px;
+    margin-right: 100px;
+    margin-left: 10px;
+}
+.texto4{
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 20px;
+
+}
+
+
+
+
+
+
+.element2{
+    background-color: lightgray;
+    height: 360px;
+    width: 30.3%;
+    float: left;
+    border-radius: 5%;
+    box-shadow: inset 0 0 1em gold, 0 0 1em rgb(25, 0, 247);
+    position: static;
+    margin-left: 23px;
+    margin-top: 20px;
+}
+.py5{
+    margin-left: 10px;
+}
+.title5{
+    margin-left: 10px;
+}
+.borda5{
+    border-style: dashed;
+    border-width: 1px;
+    margin-right: 100px;
+    margin-left: 10px;
+}
+.texto5{
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+
+
+
+
+
+
+.element3{
+    background-color: lightgray;
+    height: 360px;
+    width: 30.3%;
+    float: left;
+    border-radius: 5%;
+    box-shadow: inset 0 0 1em gold, 0 0 1em rgb(252, 0, 0);
+    position: static;
+    margin-left: 23px;
+    margin-top: 20px;
+}
+.py6{
+    margin-left: 10px;
+}
+.title6{
+    margin-left: 10px;
+}
+.borda6{
+    border-style: dashed;
+    border-width: 1px;
+    margin-right: 100px;
+    margin-left: 10px;  
+}
+.texto6{
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 20px; 
+}
+.cor{
+    margin-left: 100px;
+    background-color: white;
+    margin-right: 100px;
+
+}
