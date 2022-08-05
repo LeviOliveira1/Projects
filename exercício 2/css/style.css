@@ -1,0 +1,77 @@
+.container-1{
+    border-style: dashed;color: darkcyan ; 
+    background-color: gray;
+padding-left: 30px;
+margin-left: 60px;
+margin-right: 60px;
+padding-inline: 1px;
+border-width: 3px;
+height: 40px;
+margin-top: 50px;
+line-height: 2%;
+
+}
+h1{
+    color: black;
+}
+
+.container-2{
+    border-style: solid;
+    margin-top: 60px;
+    padding: 10px;
+    margin-left: 60px;
+    line-height: 2%;
+    height: 30px;
+    border-top: 10px;
+    border-right: 10px;
+    color: darkcyan;
+   
+}
+
+h4{
+    color: black;
+}
+body{
+    background-color: darkgray;
+
+}
+.tags1{
+    border-style: dashed;color: black;
+    border-color: darkcyan;
+    margin-left: 1px;
+margin-right: 1px;
+border-width: 3px;
+height: 90px;
+margin-top: 10px;
+line-height: 120px;
+padding-top: 10px;
+padding-left: 50px;
+
+   
+
+}
+.tags2{
+    border-style: dashed;color: black;
+    border-color: darkcyan;
+    margin-left: 1px;
+margin-right: 1px;
+border-width: 3px;
+height: 90px;
+margin-top: 10px;
+line-height: 120px;
+padding-top: 10px;
+padding-left: 50px;
+
+}
+.tags3{
+    border-style: dashed;color: black;
+    border-color: darkcyan;
+margin-left: 1px;
+margin-right: 1px;
+border-width: 3px;
+height: 90px;
+margin-top: 10px;
+line-height: 120px;
+padding-top: 10px;
+padding-left: 50px;
+}

@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    background-color: grey;
+}
+#image{
+    background-image: url("imagens/cofee.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 35em;
+    margin-left: 50px;
+    margin-right: 46px;
+}
+h2{
+    background-color:#883c1199 ;
+    width: 500px;
+    height: 100px;
+    color: white;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-bottom: 40px;
+    padding-left: 50px;
+    font-family: Berkshire;
+   
+}
+.texto, h2{
+padding-bottom: 50px;
+font-size: 30px;
+font-weight: 0px;
+}
+@font-face{
+    font-family: Berkshire;
+     src: url('fonts/BerkshireSwash-Regular.ttf');
+}
+.tabela{
+    border: 1px solid #732C02 ;
+    color: white;
+    background-color: #732C02;
+    width: 113em; 
+    height: 50px;
+    
+}
+
+.one1{
+    color: white;
+    
+
+}
+
+th:hover{
+    background-color: rgb(131, 127, 127);
+    
+}
+.th1{
+    border-right: 1px solid rgba(255, 255, 255, 0.829)  ;
+}
+.th2{
+    border-right: 1px solid rgba(255, 255, 255, 0.829);
+}
+.th3{
+    border-right: 1px solid rgba(255, 255, 255, 0.829);
+}
+.two2{
+    color: white;
+    
+}
+.three3{
+    color: white;
+    
+}
+.four4{
+    color: white;
+}
+main{
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 46px;
+   
+   
+}
+.paragrafo{
+    font-family: Berkshire;
+    font-size: 25px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.borda{
+    border-bottom: 2px solid gray;
+    margin-right: 90em;
+    margin-left: 30px;
+}
+.paragrafo2{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    background-color: #732C02;
+    padding-bottom: 20px;
+    border-radius: 14px;
+    margin-top: 30px;
+    overflow: auto;
+    box-shadow: 5px 5px 5px rgb(168, 53, 53);
+    margin-left: 130px;
+    margin-right: 60px;
+   }
+.title{
+    font-family: Berkshire;
+    color: white;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+    
+}
+.borda2{
+    border-bottom: 2px solid    #F29D35;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.paragrafo3{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title2{
+    font-family: Berkshire;
+    color: white;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+    
+}
+.borda3{
+    border-bottom: 2px solid #F29D35;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.elemento{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    margin-right: 150px;
+    margin-left: 50px;
+}
+.tabela2{
+    background-color: white;
+    width: 99%;
+    margin-left: 20px;
+    margin-right: 90px;
+    margin-top: 40px;
+    
+}
+td{
+    background-color: #F29D35;
+    padding-left: 20px;
+    font-family: Dancing Script;
+    height: 55px;
+   margin-right: 50px;
+   
+}
+
+caption{
+    background-color: #732C02;
+    height: 45px;
+    font-family: Dancing Script;
+    color: white; 
+    font-size: 18px;
+    padding-top: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.table{
+    margin-right: 60px;
+    margin-left: 30px;
+}
+.head{
+    background-color: #732C02;
+    color: white;
+}
+.rodapé{
+    width: 113em;
+    height: 150px;
+    margin-left: 50px;
+    margin-right: 100%;
+    background-color: #732C02;
+}
+.final{
+    color: white;
+    padding-top: 70px;
+    margin-left: 50px;
+}
+

@@ -1,0 +1,38 @@
+.disc{
+    border-style: dashed;
+    color: #0004ff ;
+    border-color: lightgray;
+    border-top: 0px;
+    line-height: 15px;
+    border-right: 0px;
+    max-width: max-content;
+    margin-left: 20px;
+    height: 20px;
+   
+}
+body{
+    background-color:darkgray;
+    margin-left: 15px;
+}
+.cor{
+  background-color: white ;
+ width: 600px;
+ height: 500px;
+
+ 
+}
+p{
+    margin-left: 20px;
+    margin-bottom: 1px;
+}
+
+b{
+    margin-left: 20px;
+
+}
+h4{
+    margin-top: 1px;
+}
+h2{
+    margin-left: 5px;
+}

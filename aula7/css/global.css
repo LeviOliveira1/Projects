@@ -1,0 +1,31 @@
+
+@font-face {
+    font-family:'johnny';
+    src: url('../fonts/Johnny\ Pistolas.otf');
+}
+#p1{
+  
+    color: rgb(255, 209, 5);
+ font-family:'johnny';
+    
+    font-size: 30px;
+    
+    font-weight: 200;
+    margin: 100px;
+    padding: 10px;
+    
+    
+}
+body{
+ background-color: rgb(46, 2, 17);
+}
+h1{
+    background-color:hsl(100, 40%, 50%);
+   margin: 100px;
+   text-align: center;
+   text-decoration:line-through #046b1b;
+   text-transform: capitalize;
+}
+a{
+    text-decoration: none;
+}

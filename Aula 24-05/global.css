@@ -1,0 +1,50 @@
+
+
+
+#container{
+    width: 300px;
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    overflow: auto;
+}
+
+body{
+    background-color: #ccc;
+    text-align: center;
+}
+img{
+    width: 300px;
+}
+
+
+#main-dias{
+    color: rgb(8, 187, 62);
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+#main-titulo{
+    border-top: 0px;
+    font-size: 28px;
+}
+#main-conteudo{
+    padding: 0px 10px 0px 10px ;
+}
+footer{
+height: 80px;
+background-color: rgb(17, 194, 28);
+}
+
+#footer-views{
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+}
+#footer-texto{
+    margin-top: 0px;
+}
+
+.footer-elements{
+    color: #fff;
+}

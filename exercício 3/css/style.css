@@ -1,0 +1,26 @@
+.curso{
+   margin-right: 50px;
+}
+
+.aluno{
+    margin-right: 50px;
+}
+
+.EX{
+    margin-right: 50px;
+}
+
+h2{
+    border-style:solid;
+    border-top: 100px;
+    border-right: 100px;
+    border-width: 2px;
+}
+p{
+    padding-right: 30px;
+}
+.aplic{
+    text-align: center;
+   padding-top: 100px;
+   padding-bottom: 50px;
+}

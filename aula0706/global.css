@@ -1,0 +1,59 @@
+.link:link{
+    color: yellow;
+    font-style: italic;
+}
+.link:visited{
+    color: blue;
+    font-weight: bold;
+}
+.link:hover{
+    font-size: 30px;
+    background-color: rebeccapurple;
+}
+
+.link:active{
+    background-color: seagreen;
+}
+.div1{
+    background-color: violet;
+    width: 100px;
+    height: 100px;
+}
+.div1:hover{
+    background-color: black;
+}
+.link2{
+    background-color: yellowgreen;
+    color: black;
+    text-decoration: none;
+    padding: 20px 60px;
+    font-size: 12px;
+    border-radius: 10px;
+    display: inline-block;
+}
+.link2:active{
+    background-color: blue;
+    padding: 30px 70px;
+}
+.link2:hover{
+    background-color: chocolate;
+    padding: 40px 90px;
+}
+#tabela th,td{
+    border: 5px solid rgb(0, 0, 0);
+    padding: 1%;
+}
+#tabela{
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 1rem;
+}
+#tabela th{
+    background-color: rgb(125, 3, 146);
+    color: white;
+}
+#tabela tr:nth-child(odd){
+    background-color: crimson;
+}
+·ÒËh≈&1’™C∏t'¿u¸P^;æ^´f{f7˛[)K<Ÿ§ªπ,Èû™ûV–®3]Vr§ﬁDÙúw"œõ†<W¶oÖè2+0É˜Ωπˇ?-WlÛ±ò]ﬂxÔoß≠["e˘_ä„£ˆìDkèˆmClÎsÜ‰ú`elûò¶‚/Ä2MºœπóN´Ï£üÛoFπâ^§õìDï§wÅA6¶M1˙ÿKa⁄G©^é8]µ◊
+>Iç<_8mç™˝P÷oÖÎ!uF¨ºå,%9æ˘…0∞ãúÊÍ˛4tﬁ¸ë\oÒ8ßzDˇC¢u¸5˝˝˚
